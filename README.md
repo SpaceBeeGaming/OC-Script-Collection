@@ -1,7 +1,7 @@
 # OC-Script-Collection
 Collection of scripts for OpenComputers Minecraft mod.
 
-Sort of "DNS": github.com/SpaceBeeGaming/OC-DNS
+Sort of "DNS": https://github.com/SpaceBeeGaming/OC-DNS
 
-Table saver/loader: github.com/SpaceBeeGaming/OC-tableToFile
+Table saver/loader: https://github.com/SpaceBeeGaming/OC-tableToFile
 
